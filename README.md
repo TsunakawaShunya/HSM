@@ -83,4 +83,4 @@ Simulator ビット誤り率シミュレーション
    - 次元を設定（K） 
    - 設計方法を選択（0: Cube design、1: Twisted Cube design、2: Crushed Twisted Cube design）
    - シミュレーション試行回数（N_Tri）
-3. プログラムは指定した設計方法と試行回数に対するBERとBERの上界を計算し、コンソールとCSVファイルに出力します。
+2. プログラムは指定した設計方法と試行回数に対するBERとBERの上界を計算し、コンソールとCSVファイルに結果が出力される。
